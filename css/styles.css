@@ -132,7 +132,7 @@ header ul li.single {
     border: none;
 }
 
-header ul li+ li {
+header ul li + li {
     border: none;
 }
 
