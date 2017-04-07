@@ -132,11 +132,15 @@ header ul li.single {
     border: none;
 }
 
-header ul li + li {
-    border-left: 1px solid #8BBEF3;
+header ul li+ li {
+    border: none;
 }
 
 header ul li + li + li {
+    border-left: 1px solid #8BBEF3;
+}
+
+header ul li + li + li +li {
     border-right: none;
 }
 
